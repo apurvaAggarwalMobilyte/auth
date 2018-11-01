@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "55425982796",
+    "firebase_url": "https://authorization-baa50.firebaseio.com",
+    "project_id": "authorization-baa50",
+    "storage_bucket": "authorization-baa50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55425982796:android:27cf797cfd67c798",
+        "android_client_info": {
+          "package_name": "com.authorization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55425982796-3rmsm2anc78hkc1s4segpqnlualjlpcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2a4Aw5cTDuW09OL-YVer11EMKKFYc7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
